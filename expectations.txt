@@ -5,3 +5,7 @@ it was barely touch on in previous courses. As the course progresses, I look
 forward to learning new topics that would widen my understanding in web 
 programming as a whole. And by the end of the sem, use all of these learnings 
 in creating the project requirement.
+
+Comment:
+I hope to further hone my skills in web programming as well and be able to
+create more visually appealing and functional web programs.
